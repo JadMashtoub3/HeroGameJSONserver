@@ -6,8 +6,8 @@
       "minDice": 1,
       "maxDice": 6,
       "uses": 2
-    }
-     {
+    },
+    {
       "id": 2,
       "name": "Superman",
       "minDice": 10,
@@ -18,14 +18,18 @@
   "villains": [
     {
       "id": 1,
-      "name": "BadMan",
-    }
-     {
+      "name": "Russell Sprout"
+    },
+    {
       "id": 2,
-      "name": "BadMan2",
-    }
-],
+      "name": "Due date Jenny"
+    },
+    {
+      "id": 3,
+      "name": "Taxation Tony"
+    } 
+  ],
   "profile": {
-    "name": "JadMashtoub3"
+    "name": "SwinburneSWD"
   }
 }
