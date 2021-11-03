@@ -9,37 +9,27 @@
     },
     {
       "id": 2,
-      "VillainName": "Superman",
+      "name": "Superman",
       "minDice": 10,
       "maxDice": 20,
       "uses": 2
-    },
-     {
-      "id": 3,
-      "VillainName": "HeroGuy",
-      "minDice": 3,
-      "maxDice": 8,
-      "uses": 2
-    },
+    }
   ],
   "villains": [
     {
-      "Villainid": 1,
-      "name": "Russell Sprout",
-      "health": 3
+      "id": 1,
+      "name": "Russell Sprout"
     },
     {
-      "Villainid": 2,
-      "VillainName": "Due date Jenny",
-      "health": 6
+      "id": 2,
+      "name": "Due date Jenny"
     },
-     {
-      "Villainid": 3,
-      "VillainName": "Overdue date Daniel",
-      "health": 4
-    }
-  ]
+    {
+      "id": 3,
+      "name": "Taxation Tony"
+    } 
+  ],
   "profile": {
-    "name": "Jad-Mashtoub"
+    "name": "JadMashtoub"
   }
 }
