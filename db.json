@@ -29,6 +29,18 @@
       "name": "Taxation Tony"
     } 
   ],
+  "Game" : [
+    { 
+      "gid": 1,
+      "time":"5/11/2021",
+      "winner":"Heroes Winner"
+    },
+    { 
+      "gid": 2,
+      "time":"6/11/2021",
+      "winner":"Villains Winner"
+    }
+  ],
   "profile": {
     "name": "JadMashtoub"
   }
