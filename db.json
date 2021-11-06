@@ -12,7 +12,7 @@
       "name": "Superman",
       "minDice": 10,
       "maxDice": 20,
-      "uses": 2
+      "uses": 5
     }
   ],
   "villains": [
