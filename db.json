@@ -3,15 +3,15 @@
     {
       "id": 1,
       "name": "Captain Swinburne",
-      "minDice": 1,
-      "maxDice": 6,
+      "MinHit": 1,
+      "MaxHit": 6,
       "uses": 2
     },
     {
       "id": 2,
       "name": "Superman",
-      "minDice": 10,
-      "maxDice": 20,
+      "MinHit": 10,
+      "MaxHit": 20,
       "uses": 5
     }
   ],
