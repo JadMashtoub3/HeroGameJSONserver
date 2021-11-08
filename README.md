@@ -1,1 +1,1 @@
-# MockHeroGameJSONserver
+# HeroGameJSONserver
